@@ -2,7 +2,7 @@
 
 ## **My Modification**
 
-* Hardcode PinnedDialogsCountMax to 50
+* Hardcode the value of PinnedDialogsCountMax as 50
 
 
 --- 
